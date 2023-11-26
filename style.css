@@ -455,3 +455,6 @@ footer p{
     text-align: center;
     color: white;
 }
+#shadow-host-companion{
+    display: none;
+}
